@@ -12,3 +12,4 @@ este site traz um template elegante e moderno, trabalhando com uma paleta de cor
 
 ## Vídeo Ilustrativo do Projeto
 
+![Exemplo-Site](https://github.com/ItaloLimma/Site-Artista-2022/blob/master/gif-site-justim.gif)
